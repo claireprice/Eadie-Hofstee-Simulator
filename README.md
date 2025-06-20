@@ -26,8 +26,7 @@ A browser-based educational simulator to explore the **Eadie-Hofstee plot** used
 
 If you use this simulator in education or publications, please credit:
 
-**Claire L. Price**, **J. Gareth Noble**, and **Aidan Seeley**  
-Swansea University, 2025
+Price, C. L., Noble, J. G., & Seeley, A. (2025). Eadie-Hofstee Kinetics Simulator. Zenodo. https://doi.org/10.5281/zenodo.15707393
 
 ## Licence
 
